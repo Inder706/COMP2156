@@ -1,7 +1,7 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "comp2156 lab exercise",
+  "description": "comp2156",
   "main": "index.js",
   "homepage": "https://Inder706.github.io/COMP2156/",
   "scripts": {
@@ -13,7 +13,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "author": "Vince Marando",
+  "author": "Inderpreet",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.1",
